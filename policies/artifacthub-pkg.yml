@@ -47,6 +47,8 @@ readme: |
   cat ./demo/ingress.yaml | docker run --rm -i eu.gcr.io/swade1987/deprek8ion:1.1.17 -
   ```
 changes: |
+  "- ###8120    Update go in runner and release v1.1.1"
+  "- ###8120    Update go in **runner** and *release* `v1.1.1"
   "- #8120    Update go in runner and release v1.1.1"
   "- #8119    Update to go v1.17.6"
   "- #8118    Remove deprecated libraries, update other libs"
