@@ -1,4 +1,4 @@
-version: 0.1.6
+version: 0.1.7
 name: deprek8ion
 alternativeName: ion
 displayName: Deprek8ion
@@ -22,18 +22,9 @@ install: |
     helm upgrade falco -f https://api.securityhub.dev/resources/falco-rules/cve-2019-11246/custom-rules.yaml stable/falco
   ```
 changes:
-  - kind: added
-    description: Support for defining
-    links:
-      - name: Github PR
-        url: https://github.com
-  - kind: added
-    description: "Support **for** defining *loadBalancerIP*"
-  - kind: added
-    description: "### Support for defining > podAnnotations"
-    links:
-      - name: Github PR
-        url: https://github.com
+  - "> Support for defining"
+  - "Support **for** defining *loadBalancerIP*"
+  - "### Support for defining > podAnnotations"
 readme: |
   # Deprek8ion 🕵️‍
 
