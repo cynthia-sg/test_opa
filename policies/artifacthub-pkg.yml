@@ -29,15 +29,12 @@ changes: |
         url: https://github.com
   - kind: added
     description: "Support for defining *loadBalancerIP*"
-    links:
-      - name: Github PR
-        url: https://github.com
   - kind: added
     description: "### Support for defining/n podAnnotations"
     links:
       - name: Github PR
         url: https://github.com
-  - no **kind** for this change
+  - "no **kind** for this change"
 readme: |
   # Deprek8ion 🕵️‍
 
