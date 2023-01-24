@@ -1,5 +1,6 @@
 version: 0.1.2
 name: deprek8ion
+alternativeName: ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
 description: A set of rego policies to monitor Kubernetes APIs deprecations
