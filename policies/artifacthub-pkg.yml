@@ -1,4 +1,4 @@
-version: 0.1.5
+version: 0.1.6
 name: deprek8ion
 alternativeName: ion
 displayName: Deprek8ion
@@ -28,9 +28,9 @@ changes:
       - name: Github PR
         url: https://github.com
   - kind: added
-    description: "Support for defining *loadBalancerIP*"
+    description: "Support **for** defining *loadBalancerIP*"
   - kind: added
-    description: "### Support for defining/n podAnnotations"
+    description: "### Support for defining > podAnnotations"
     links:
       - name: Github PR
         url: https://github.com
