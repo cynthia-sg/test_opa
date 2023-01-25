@@ -54,3 +54,13 @@ readme: |
 maintainers:
   - name: test
     email: cynthiasg@icloud.com
+images: |
+  - name: img1
+    image: repo/img1:1.0.0
+    platforms:
+      - linux/amd64
+  - name: img2
+    image: repo/img2:2.0.0
+    whitelisted: true
+    platforms:
+      - linux/amd64
