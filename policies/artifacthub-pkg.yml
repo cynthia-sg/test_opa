@@ -1,4 +1,4 @@
-version: 0.1.10
+version: 0.1.11
 name: deprek8ion
 alternativeName: ion
 displayName: Deprek8ion
@@ -50,7 +50,7 @@ readme: |
 maintainers:
   - name: test
     email: cynthiasg@icloud.com
-images: |
+containersImages:
   - name: img1
     image: repo/img1:1.0.0
     platforms:
