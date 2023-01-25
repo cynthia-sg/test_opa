@@ -21,10 +21,6 @@ install: |
   ```
     helm upgrade falco -f https://api.securityhub.dev/resources/falco-rules/cve-2019-11246/custom-rules.yaml stable/falco
   ```
-changes: |
-  - "> Support for **defining**"
-  - "Support **for** defining *loadBalancerIP*"
-  - "### Support for defining > podAnnotations"
 readme: |
   # Deprek8ion 🕵️‍
 
