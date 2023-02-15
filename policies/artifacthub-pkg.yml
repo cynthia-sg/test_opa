@@ -21,6 +21,7 @@ install: |
   ```
     helm upgrade falco -f https://api.securityhub.dev/resources/falco-rules/cve-2019-11246/custom-rules.yaml stable/falco
   ```
+category: database
 readme: |
   # Deprek8ion 🕵️‍
 
